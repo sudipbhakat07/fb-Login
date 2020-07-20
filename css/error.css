@@ -107,5 +107,15 @@ nav div img {
 #lastDiv img {
     width: 9px;
     margin: 0 5px 0 3px;
+}
 
+#copyright a{
+    font-size: 13px;
+    font-style: italic;
+    font-family: monospace;
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    right:40px;
+    bottom: 30px;
 }
