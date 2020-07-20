@@ -110,9 +110,9 @@ nav div img {
 }
 
 #copyright a{
-    font-size: 13px;
+    font-size: 12px;
     font-style: italic;
-    font-family: monospace;
+    font-family: sans-serif;
     color: white;
     text-decoration: none;
     position: fixed;
